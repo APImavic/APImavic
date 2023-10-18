@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @APImavic
+- I am a seasoned backend developer, looking into providing solutions to non-public API access for ethical use.
+- 📫 How to reach me ... Send me a DM or comment on the project you are interested in.
